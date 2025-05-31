@@ -1,0 +1,6 @@
+{
+  "windows": "https://github.com/b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0/1/releases/download/java21/jre.zip",
+  "linux": "https://github.com/b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0/1/releases/download/java21/jre.tar.gz",
+  "mac": "https://github.com/b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0/1/releases/download/java21/jre_mac.tar.gz",
+  "version": 21
+}
